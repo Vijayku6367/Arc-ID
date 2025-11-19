@@ -1,0 +1,14 @@
+require("@nomicfoundation/hardhat-toolbox");
+require("dotenv").config();
+
+module.exports = {
+  solidity: "0.8.20",
+  networks: {
+    arcTestnet: {
+      url: "https://rpc.testnet.arc.network",
+      chainId: 5042002  // Arc Testnet Chain ID
+      ,
+      accounts: [process.env.PRIVATE_KEY]
+    }
+  }
+};
