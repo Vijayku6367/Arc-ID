@@ -1,0 +1,17 @@
+.task-page {
+  padding-top: 140px;
+}
+
+.task-card {
+  padding: 20px;
+  background: #042017;
+  border: 1px solid #0f3f2b;
+  border-radius: 12px;
+  margin-top: 18px;
+  transition: .3s;
+}
+
+.task-card:hover {
+  box-shadow: 0 0 12px #21ff8e;
+  transform: scale(1.02);
+}

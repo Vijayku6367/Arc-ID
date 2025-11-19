@@ -1,0 +1,21 @@
+.leader-page {
+  padding-top: 140px;
+  text-align: center;
+}
+
+.leader-table {
+  width: 100%;
+  margin-top: 30px;
+  border-collapse: collapse;
+}
+
+.leader-table th,
+.leader-table td {
+  border-bottom: 1px solid #0e3d2b;
+  padding: 12px;
+  font-size: 17px;
+}
+
+.leader-table tr:hover {
+  background: #052219;
+}
