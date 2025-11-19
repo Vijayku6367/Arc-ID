@@ -1,0 +1,1 @@
+// HowItWorks.js placeholder

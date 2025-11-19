@@ -1,0 +1,1 @@
+// XPBurst.js placeholder

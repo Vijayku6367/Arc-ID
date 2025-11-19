@@ -1,0 +1,1 @@
+// Hero.js placeholder
